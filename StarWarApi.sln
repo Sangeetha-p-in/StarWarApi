@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarApi", "StarWarApi\StarWarApi.csproj", "{D3D82189-EDC5-4EC4-92A9-6033607EB4E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWarTest", "StarWarTest\StarWarTest.csproj", "{02E4CED9-653E-4774-836E-BAE9830AA82B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D82189-EDC5-4EC4-92A9-6033607EB4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D82189-EDC5-4EC4-92A9-6033607EB4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D82189-EDC5-4EC4-92A9-6033607EB4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D82189-EDC5-4EC4-92A9-6033607EB4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02E4CED9-653E-4774-836E-BAE9830AA82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02E4CED9-653E-4774-836E-BAE9830AA82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02E4CED9-653E-4774-836E-BAE9830AA82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02E4CED9-653E-4774-836E-BAE9830AA82B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E486B72-53CC-4671-BC61-2CBC92CF45EB}
+	EndGlobalSection
+EndGlobal
