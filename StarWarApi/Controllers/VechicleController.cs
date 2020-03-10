@@ -49,6 +49,7 @@ namespace StarWarApi.Controllers
                                 })
                             .ToList()
                         })
+                        .OrderByDescending(order => order.Count)
                         .ToList();
 
                 }
